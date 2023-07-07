@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Box-Mkm
+- 👋 Hi, I’m Mohamed Khaled
 - 👀 I’m interested in Computers in genral
 - 🌱 I’m currently learning Full-Stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohamedkhaledx12@gmail.com
 
 <!---
